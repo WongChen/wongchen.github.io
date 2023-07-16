@@ -189,34 +189,6 @@
   </url>
   
   <url>
-    <loc>http://wongchen.github.io/tags/IPv6/</loc>
-    <lastmod>2023-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://wongchen.github.io/tags/GAE/</loc>
-    <lastmod>2023-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://wongchen.github.io/tags/cuda/</loc>
-    <lastmod>2023-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://wongchen.github.io/tags/TensorFlow/</loc>
-    <lastmod>2023-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://wongchen.github.io/tags/mac/</loc>
     <lastmod>2023-07-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -246,6 +218,34 @@
   
   <url>
     <loc>http://wongchen.github.io/tags/Keyboard-Maestro/</loc>
+    <lastmod>2023-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://wongchen.github.io/tags/IPv6/</loc>
+    <lastmod>2023-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://wongchen.github.io/tags/GAE/</loc>
+    <lastmod>2023-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://wongchen.github.io/tags/cuda/</loc>
+    <lastmod>2023-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://wongchen.github.io/tags/TensorFlow/</loc>
     <lastmod>2023-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -287,6 +287,13 @@
   </url>
   
   <url>
+    <loc>http://wongchen.github.io/tags/Dataset/</loc>
+    <lastmod>2023-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://wongchen.github.io/tags/pytorch/</loc>
     <lastmod>2023-07-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -295,13 +302,6 @@
   
   <url>
     <loc>http://wongchen.github.io/tags/deep-learning/</loc>
-    <lastmod>2023-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://wongchen.github.io/tags/Dataset/</loc>
     <lastmod>2023-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
