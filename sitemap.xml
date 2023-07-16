@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://wongchen.github.io/2016/11/13/gae-proxy-ipv6/</loc>
+    <loc>http://wongchen.github.io/2017/09/11/tf-datareader/</loc>
     
     <lastmod>2023-07-16</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://wongchen.github.io/2017/09/11/tf-datareader/</loc>
+    <loc>http://wongchen.github.io/2016/11/13/gae-proxy-ipv6/</loc>
     
     <lastmod>2023-07-16</lastmod>
     
@@ -196,20 +196,6 @@
   </url>
   
   <url>
-    <loc>http://wongchen.github.io/tags/%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2023-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://wongchen.github.io/tags/Keyboard-Maestro/</loc>
-    <lastmod>2023-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://wongchen.github.io/tags/mac/</loc>
     <lastmod>2023-07-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -232,6 +218,13 @@
   
   <url>
     <loc>http://wongchen.github.io/tags/seaborn/</loc>
+    <lastmod>2023-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://wongchen.github.io/tags/Keyboard-Maestro/</loc>
     <lastmod>2023-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -273,6 +266,13 @@
   </url>
   
   <url>
+    <loc>http://wongchen.github.io/tags/generator/</loc>
+    <lastmod>2023-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://wongchen.github.io/tags/2017/</loc>
     <lastmod>2023-07-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -280,7 +280,7 @@
   </url>
   
   <url>
-    <loc>http://wongchen.github.io/tags/generator/</loc>
+    <loc>http://wongchen.github.io/tags/%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2023-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -324,13 +324,6 @@
   </url>
   
   <url>
-    <loc>http://wongchen.github.io/categories/%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2023-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://wongchen.github.io/categories/python/</loc>
     <lastmod>2023-07-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -339,6 +332,13 @@
   
   <url>
     <loc>http://wongchen.github.io/categories/TensorFlow/</loc>
+    <lastmod>2023-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://wongchen.github.io/categories/%E6%80%BB%E7%BB%93/</loc>
     <lastmod>2023-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
